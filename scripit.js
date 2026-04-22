@@ -13,7 +13,7 @@ function enviarMensagem() {
 
 //Adicionando interação ao portifólio
 function link01() {
-    window.open('https://moisesvh.github.io/Uninter-Trabalhos-e-Projetos/', '_blank');
+    window.open('https://moisesvh.github.io/Uninter-Trabalho-Fundamentos-de-Desenvolvimento-de-Software/', '_blank');
 }
 function link02() {
     window.open('https://www.figma.com/design/5mnBHbc8lisuUT3uttjo9k/APP-Bras.-BANK?node-id=0-1&p=f&t=iG3EG6wk6I77mhKV-0', '_blank');
